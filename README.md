@@ -76,6 +76,7 @@ vite.config.js            Vite multi-page entry configuration
 - “Choose Solo” and “Choose Studio” open the form with that plan preselected.
 - The request form checks the name and email, keeps values after errors, and displays a clear success message after valid submission.
 - The “Admin preview” opens with the public sample credentials below. A successful mock sign-in shows the interactive workspace.
+- The hero enters gently on page load and sections reveal as they scroll into view. Reduced-motion preferences disable these effects.
 
 ### Sample admin preview
 
@@ -102,6 +103,7 @@ An interactive HTML/CSS workspace makes the product tangible at the top of the p
 Short feature stories sit beside relevant interface details instead of repeating cards.  
 The dense workspace was the main mobile challenge, so its sidebar becomes compact tabs and its rows adapt to narrow screens.  
 Shared components keep navigation, spacing, and actions consistent across all six pages.
+Short scroll reveals support the reading rhythm without obscuring the content for reduced-motion visitors.
 
 ## Manual review checklist
 
