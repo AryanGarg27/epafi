@@ -2,6 +2,8 @@
 
 Epafi is a fictional follow-up workspace for independent designers and small studios. It gives contacts, conversation context, and next actions one clear home. The name is inspired by Greek **επαφή** (*epafí*), meaning “contact.”
 
+**Live demo:** [View Epafi](https://epafi-n25snca7h-aryangarg27s-projects.vercel.app)
+
 This is a front-end internship project. Plans, contacts, pricing, and the admin workspace are illustrative sample content; there is no backend, real account, or payment flow.
 
 ## Technologies
